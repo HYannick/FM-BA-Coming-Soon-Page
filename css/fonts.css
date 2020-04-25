@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("../fonts/JosefinSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Josefin Sans Light";
+    src: url("../fonts/JosefinSans-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Josefin Sans Thin";
+    src: url("../fonts/JosefinSans-Thin.ttf") format("truetype");
+}
